@@ -9,8 +9,9 @@ now after observing different possibilities I observe that the cipher is divided
 
 So
 
-**cipher="IHUDERMRCPESOLLANOEIHR"; decrypt=""**
-**for(i=0,j=11;i<11;i++,j++)**
-	**decrypt+=cipher[i]+cipher[j];**
+cipher="IHUDERMRCPESOLLANOEIHR"; 
+decrypt=""
+for(i=0,j=11;i<11;i++,j++)
+	decrypt+=cipher[i]+cipher[j];
 
 The flag is Bugs_Bunny{decrypt}
