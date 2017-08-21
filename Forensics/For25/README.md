@@ -1,6 +1,6 @@
 # Forensics: For25
 
-**Link to the challenge is [here](http://www.bugsbunnyctf.me/challenges#For25).**
+**Link to the challenge is [here](http://www.bugsbunnyctf.me/challenges).**
 
 After downloading the hex file I saw that it is a hex dump of a particular file. Since the hex dump starts and ends with a tag PK (the initials of Phil Katz, the inventor of the zip file), it clearly shows that the above is the hex dump of the zip file.
 

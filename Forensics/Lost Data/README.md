@@ -1,6 +1,6 @@
 # Forensics: Lost Data
 
-**Link to the challenge is [here](http://www.bugsbunnyctf.me/challenges#Lost data).**
+**Link to the challenge is [here](http://www.bugsbunnyctf.me/challenges).**
 
 After downloading the file named file. First I check it's type.
 
@@ -13,7 +13,6 @@ After downloading the file named file. First I check it's type.
 Now after realising that the file type is *unknown*, I pass the file with strings argument.
 
 ```
-
 	$ strings file | more
 
 ```
