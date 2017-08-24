@@ -11,3 +11,5 @@ We convert this hex dump back to zip file from very useful Unix command xxd.
 **xxd -r -p hexdump compress.zip**
 
 Now extract the zip file compress.zip and read the flag.
+
+Flag : Bugs_Bunny{Y0u_D1D_1T_W3ll}

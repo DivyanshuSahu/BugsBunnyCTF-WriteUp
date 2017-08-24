@@ -26,6 +26,8 @@ Now I pass the file with xxd command.
 
 At last line, we saw the word GNP which is the reverse of PNG.
 
+Flag : Bugs_Bunny{E4Sy_T4Sk_F0R_H4X0r_L1KeS_Y0u}
+
 Therefore, we need to reverse the file. This can be done through python easily.
 
 ```

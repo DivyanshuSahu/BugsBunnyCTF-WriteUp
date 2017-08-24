@@ -17,4 +17,4 @@ for(i=0,j=11;i<11;i++,j++)
 
 ```
 
-The flag is Bugs_Bunny{decrypt}
+The flag is Bugs_Bunny{ISHOULDLEARNMORECIPHER}

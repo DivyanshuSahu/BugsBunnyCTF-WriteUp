@@ -28,3 +28,5 @@ Now open the file with hexeditor and replace the initials signature with the act
 
 Extract the compressed file and flag will be obvious then.
 
+Flag : Bugs_Bunny{r3m3mb3r_4ll_w4ys_t0_ch3ck_h34d3r_f1l3}
+
