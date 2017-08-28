@@ -14,10 +14,10 @@ I use javascript to replace all ZERO to 0 and all ONE to 1.
 
 ```
 
-Now I use this [tool](https://www.branah.com/ascii-converter){:target="_blank"} to convert binary into ascii.
+Now I use this <a href="https://www.branah.com/ascii-converter" target="_blank">tool</a> to convert binary into ascii.
 
 The binary decoded into **QnVnc19CdW5ueXswNWZlODIzOGNmZWUxZTVmMDRiNjUzMzliZWE0ZmVkMn0=** which is clearly base64 encoded. 
 
-I use this (tool)(https://www.base64decode.org/){:target="_blank"} to decode base64 string.
+I use this <a href="https://www.base64decode.org/" target="_blank">tool</a> to decode base64 string.
 
 After decoding we get the flag : Bugs_Bunny{05fe8238cfee1e5f04b65339bea4fed2}	
