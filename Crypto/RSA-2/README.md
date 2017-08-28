@@ -4,7 +4,7 @@
 
 Here we see that the value of n is too large so we were not able to factorize it from factordb.
 
-This time I use this (tool)[https://github.com/rk700/attackrsa] to factorize n.
+This time I use this [tool](https://github.com/rk700/attackrsa) to factorize n.
 
 ```
     attackrsa -t weiner -n N -e E

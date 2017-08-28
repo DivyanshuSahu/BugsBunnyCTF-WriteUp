@@ -2,9 +2,9 @@
 
 **Link to the challenge is [here](http://www.bugsbunnyctf.me/challenges).**
 
-This is RSA encryption. Read about RSA encryption (here)[https://en.wikipedia.org/wiki/RSA_(cryptosystem)].
+This is RSA encryption. Read about RSA encryption [here](https://en.wikipedia.org/wiki/RSA_cryptosystem).
 
-I use (factordb)[https://factordb.com/] to factorize n to get p and q and then the simple python script to decode the message.
+I use [factordb](https://factordb.com/) to factorize n to get p and q and then the simple python script to decode the message.
 
 ```
     import sys
